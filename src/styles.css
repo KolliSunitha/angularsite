@@ -6,3 +6,9 @@
     background-repeat: repeat;
     background-color: #DDDEEE;
 }
+nav {
+    margin-left:2%;
+}
+.nav-menu {
+    padding:10px 65px !important;
+}
